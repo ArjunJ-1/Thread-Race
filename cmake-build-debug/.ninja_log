@@ -1,0 +1,7 @@
+# ninja log v5
+2	886	6976442593530624	CMakeFiles/untitled.dir/main.cpp.obj	5f971110c8860a52
+679	764	6976450802387556	openmp_test_clion.exe	e8c97b016cdf8c55
+887	992	6976442594333788	untitled.exe	30cd5be9f1ce3d70
+0	679	6976450801558518	CMakeFiles/openmp_test_clion.dir/main.cpp.obj	a6abf1e8918948ff
+3	685	6976473442321253	CMakeFiles/openmp_test_clion.dir/main.cpp.obj	318185c050117479
+685	761	6976473443057487	openmp_test_clion.exe	e8c97b016cdf8c55
